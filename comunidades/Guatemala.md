@@ -1,12 +1,12 @@
 Las comunidades en Guatemala
 
-<!--
-## Sudeste(ejemplo)
+### Guatemala
 
-###Rio de Janeiro(ejemplo)
-
-Comunidad | Sitio Web
+Comunidad | Sitio Web 
  --- | ---
-PyLadies Rio de Janeiro | [http://rio.pyladies.com/](http://rio.pyladies.com/) 
+ Python Meetup Guatemala Facebook | [https://www.facebook.com/pythonGuatemala/](https://www.facebook.com/pythonGuatemala/)
+ Python Meetup Guatemala Twitter | [https://twitter.com/PythonGuatemala](https://twitter.com/PythonGuatemala)
 
--->
+
+
+
